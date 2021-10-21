@@ -1,3 +1,3 @@
-# Web-UI-DOM-Task1
+# WebUI-Club-DOM-1
 
 DOM-Task1
